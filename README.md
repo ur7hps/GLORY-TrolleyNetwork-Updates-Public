@@ -15,11 +15,17 @@
   </p>
 
   <p>
-    <a href="https://github.com/ur7hps/GLORY-TrolleyNetwork-Updates-Public/releases/latest"><strong>⬇ Скачать последнюю стабильную версию</strong></a>
-    &nbsp;•&nbsp;
-    <a href="https://gloryomsi.duckdns.org/"><strong>Официальный сайт GLORY</strong></a>
-    &nbsp;•&nbsp;
-    <a href="https://discord.gg/cgnFNR6wUc"><strong>Discord сообщества</strong></a>
+    <a href="https://github.com/ur7hps/GLORY-TrolleyNetwork-Updates-Public/releases/latest">
+      <img src="https://img.shields.io/badge/СКАЧАТЬ-СТАБИЛЬНУЮ%20ВЕРСИЮ-D8A33D?style=for-the-badge&labelColor=101C28&logo=windows&logoColor=white" alt="Скачать последнюю стабильную версию">
+    </a>
+    &nbsp;
+    <a href="https://gloryomsi.duckdns.org/">
+      <img src="https://img.shields.io/badge/ОФИЦИАЛЬНЫЙ%20САЙТ-GLORY-D8A33D?style=for-the-badge&labelColor=101C28&logo=googlechrome&logoColor=white" alt="Официальный сайт GLORY">
+    </a>
+    &nbsp;
+    <a href="https://discord.gg/cgnFNR6wUc">
+      <img src="https://img.shields.io/badge/DISCORD-ПРИСОЕДИНИТЬСЯ-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord сообщества GLORY">
+    </a>
   </p>
 </div>
 
@@ -217,20 +223,6 @@ GLORY автоматически определяет трёхсторонние
 
 ---
 
-## Особая калибровка карты Тверь
-
-Для карты **Тверь** в GLORY предусмотрен отдельный проверенный путь обработки эталонной контактной сети.
-
-- Сверяются 62 эталонные стрелки с их координатами и параметрами управления.
-- Применяется специальная калибровка геометрии контактной сети.
-- Сохраняется проверенная логика размещения пролётов и трёхсторонних соединений.
-- Учитываются особенности коротких граничных сплайнов.
-- Отключаются универсальные операции предпросмотра, которые могли бы изменить защищённую калибровку.
-
-Специальный режим активируется по идентификации карты и наличию ожидаемого набора эталонных профилей. Использование общих файлов профиля Твери само по себе не должно переключать на этот режим другую карту.
-
-Для остальных поддерживаемых карт применяется универсальный алгоритм анализа геометрии и топологии контактной сети.
-
 ## Интерфейс и удобство работы
 
 - Тёмный интерфейс GLORY с фирменными золотыми и бирюзовыми акцентами.
@@ -279,21 +271,21 @@ GLORY анализирует данные карты и формирует фа�
 
 ---
 
-## Скачать и присоединиться к сообществу
+## Сообщество GLORY
 
 <div align="center">
-  <h3>GLORY Trolley Network Studio</h3>
-  <p>Создавай, проверяй и настраивай контактную сеть с помощью GLORY.</p>
+  <h3>Присоединяйтесь к серверам GLORY в Open OMS!</h3>
   <p>
-    <a href="https://github.com/ur7hps/GLORY-TrolleyNetwork-Updates-Public/releases/latest">
-      <img src="https://img.shields.io/badge/DOWNLOAD-LATEST%20STABLE-2ea44f?style=for-the-badge&logo=windows&logoColor=white" alt="Download latest stable">
+    <a href="https://discord.gg/cgnFNR6wUc">
+      <img src="https://img.shields.io/badge/DISCORD-ПРИСОЕДИНИТЬСЯ-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord сообщества GLORY">
     </a>
-  </p>
-  <p>
-    <a href="https://gloryomsi.duckdns.org/">🌐 Официальный сайт</a>
-    &nbsp; • &nbsp;
-    <a href="https://discord.gg/cgnFNR6wUc">💬 Discord сообщества</a>
-    &nbsp; • &nbsp;
-    <a href="https://github.com/ur7hps/GLORY-TrolleyNetwork-Updates-Public/releases">📦 Все релизы</a>
+    &nbsp;
+    <a href="https://gloryomsi.duckdns.org/">
+      <img src="https://img.shields.io/badge/ОФИЦИАЛЬНЫЙ%20САЙТ-GLORY-D8A33D?style=for-the-badge&labelColor=101C28&logo=googlechrome&logoColor=white" alt="Официальный сайт GLORY">
+    </a>
+    &nbsp;
+    <a href="https://github.com/ur7hps/GLORY-TrolleyNetwork-Updates-Public/releases/latest">
+      <img src="https://img.shields.io/badge/СКАЧАТЬ-СТАБИЛЬНУЮ%20ВЕРСИЮ-D8A33D?style=for-the-badge&labelColor=101C28&logo=windows&logoColor=white" alt="Последняя стабильная версия GLORY">
+    </a>
   </p>
 </div>
